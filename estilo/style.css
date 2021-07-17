@@ -41,6 +41,7 @@ footer > p {
 }
 footer > p > a {
     text-decoration: none;
+    color: rgb(255, 0, 157);
 }
 footer > p > a:hover {
 color: turquoise;
