@@ -3,7 +3,7 @@
  
  
  <p align="center"> 
- <img width="460" height="300" src="img/assets/gifveterinar.gif">
+ <img width="460" height="300" src="src/assets/gifveterinar.gif">
  </p>
  
  
